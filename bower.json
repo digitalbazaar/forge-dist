@@ -1,0 +1,44 @@
+{
+  "name": "forge",
+  "description": "JavaScript implementations of network transports, cryptography, ciphers, PKI, message digests, and various utilities.",
+  "moduleType": ["amd"],
+  "authors": [
+    "Digital Bazaar, Inc. <support@digitalbazaar.com> (http://digitalbazaar.com/)"
+  ],
+  "homepage": "https://github.com/digitalbazaar/forge-dist",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/forge-dist"
+  },
+  "license": "(BSD-3-Clause OR GPL-2.0)",
+  "keywords": [
+    "aes",
+    "asn",
+    "asn.1",
+    "cbc",
+    "crypto",
+    "cryptography",
+    "csr",
+    "des",
+    "gcm",
+    "hmac",
+    "http",
+    "https",
+    "md5",
+    "network",
+    "pkcs",
+    "pki",
+    "prng",
+    "rc2",
+    "rsa",
+    "sha1",
+    "sha256",
+    "sha384",
+    "sha512",
+    "ssh",
+    "tls",
+    "x.509",
+    "x509"
+  ],
+  "main": ["dist/forge.min.js"]
+}
